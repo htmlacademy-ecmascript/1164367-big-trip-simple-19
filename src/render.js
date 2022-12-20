@@ -2,7 +2,7 @@ const RenderPosition = {
   BEFOREBEGIN: 'beforebegin',
   AFTERBEGIN: 'afterbegin',
   BEFOREEND: 'beforeend',
-  AFTEREND: 'afterend', //
+  AFTEREND: 'afterend',
 };
 
 function createElement(template) {
